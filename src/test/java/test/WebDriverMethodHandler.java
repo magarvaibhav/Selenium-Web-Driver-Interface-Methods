@@ -1,6 +1,6 @@
-package com.test;
+package test;
 
-import com.steps.WebDriverMethods;
+import steps.WebDriverMethods;
 
 public class WebDriverMethodHandler {
 
